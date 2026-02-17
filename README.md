@@ -48,45 +48,6 @@ BaseRPGTacticsUnity/
 └── (fichiers .meta associés)
 
 
-## 🛠️ Prérequis
-
-- **Unity** : Une version ancienne (probablement 2018-2020) compatible avec les scripts fournis.  
-  *(Le projet n’a pas été testé sur les versions récentes, une mise à jour peut être nécessaire.)*
-- **Connaissances de base** : Familiarité avec l’éditeur Unity et la programmation C#.
-
-## 🚀 Installation et lancement
-
-1. **Clonez le dépôt** :
-   ```bash
-   git clone https://github.com/juniorbattle/BaseRPGTacticsUnity.git
-
-## 🛠️ Prérequis
-
-- **Unity** : Une version ancienne (probablement 2018-2020) compatible avec les scripts fournis.  
-  *(Le projet n’a pas été testé sur les versions récentes, une mise à jour peut être nécessaire.)*
-- **Connaissances de base** : Familiarité avec l’éditeur Unity et la programmation C#.
-
-## 🚀 Installation et lancement
-
-1. **Clonez le dépôt** :
-   ```bash
-   git clone https://github.com/juniorbattle/BaseRPGTacticsUnity.git
-
-   ## 🚀 Installation et lancement
-
-### Ouvrez le projet dans Unity
-
-1. Lancez Unity Hub.
-2. Créer un nouveau projet 3D
-3. Remplacer le dossier cloné Assets à la place du Assets du nouveau projet.
-4. Ouvrez le projet.
-
-### Lancez la scène de test
-
-1. Dans l’onglet **Project**, naviguez jusqu’à `Test.unity`.
-2. Double-cliquez pour l’ouvrir.
-3. Appuyez sur le bouton **Play** pour démarrer le prototype.
-
 ## 🎮 Gameplay (dans l’état actuel)
 
 - Le joueur contrôle une ou plusieurs unités.
@@ -97,23 +58,6 @@ BaseRPGTacticsUnity/
 - Le jeu passe au tour suivant automatiquement.
 
 > **Remarque** : Le projet étant une base, certaines fonctionnalités peuvent être incomplètes ou nécessiter des ajustements.
-
-## 🔧 Personnalisation et extension
-
-Vous pouvez facilement étendre ce prototype :
-
-- **Ajouter de nouvelles unités** : Créez des prefabs dans les dossiers `Player` ou `NPC` et implémentez leurs comportements.
-- **Créer de nouvelles actions** : Utilisez le système `Act` (ScriptableObject) pour définir des compétences variées (soin, zone d’effet, etc.).
-- **Modifier la grille** : Ajustez la taille, les obstacles ou l’apparence des `Tile`.
-- **Améliorer l’IA** : Enrichissez les scripts du dossier `NPC` pour des décisions plus complexes.
-- **Ajouter une interface utilisateur** : Connectez `MenuScript` à un vrai menu de jeu.
-
-## ⚠️ Remarques importantes
-
-- Ce projet est une **ancienne version** et peut nécessiter une migration vers une version récente d’Unity. Les scripts sont fournis tels quels.
-- Il s’agit d’une **base technique**, pas d’un jeu complet et équilibré. Attendez-vous à des bugs ou fonctionnalités manquantes.
-- Les fichiers `.meta` sont inclus pour préserver les références Unity ; ne les supprimez pas.
-- Le code est commenté en anglais (ou partiellement) – n’hésitez pas à l’explorer pour comprendre chaque système.
 
 ## 🤝 Pourquoi ce projet ?
 
