@@ -21,7 +21,7 @@ L’objectif est de fourir un point de départ solide pour tout développeur sou
 - **Combat** : Gestion des attaques, projectiles (`ProjectileController`), dégâts et barres de vie (`Healthbar`).
 - **Caméra tactique** : Script `TacticsCamera` pour suivre l’action et se positionner sur la grille.
 - **États et buffs** : `TacticStatus` pour gérer les altérations d’état.
-- **Actions/Compétences** : Dossier `Act` contenant probablement des ScriptableObjects pour définir des actions (fichier `New Act.asset`).
+- **Actions/Compétences** : Dossier `Act` contenant des ScriptableObjects pour définir des actions (fichier `New Act.asset`).
 - **Menu de base** : `MenuScript` pour l’interface utilisateur.
 - **Boost** : `BoostControl` pour des bonus temporaires.
 - **Scène de test** : `Test.unity` permettant de lancer et d’expérimenter le prototype immédiatement.
