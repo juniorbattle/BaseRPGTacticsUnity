@@ -66,8 +66,3 @@ Ce dépôt est idéal pour :
 - Apprendre la structure d’un tactical RPG sous Unity.
 - Réutiliser des mécaniques éprouvées pour démarrer un nouveau projet.
 - Étudier l’organisation de scripts pour un jeu au tour par tour.
-
----
-
-**Amusez-vous à construire votre propre tactical RPG !** 🎮  
-Si vous avez des questions ou suggestions, n’hésitez pas à [ouvrir une issue](https://github.com/juniorbattle/BaseRPGTacticsUnity/issues) sur GitHub.
