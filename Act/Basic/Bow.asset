@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 436a42151d5de6b4aaf41dcf3699fc92, type: 3}
+  m_Name: Bow
+  m_EditorClassIdentifier: 
+  ID: 0
+  nameAct: Bow
+  typeAct: 0
+  description: Mastery of ranged combat with a bow, allowing for long-distance attacks
+    with great accuracy and precision.
+  point: 1
+  range: 5
+  adjacency: 0.1
+  amount: 50
+  criticRate: 10
+  successRate: 90
+  typeAbility: 0
+  typeAction: 0
+  zoneTarget: 0
+  duration: 0
+  weaponObj: {fileID: 0}
+  projectileObj: {fileID: 3504470094437163239, guid: 054d46a6f755e794baab042e7d972466,
+    type: 3}
+  impactObj: {fileID: 0}
+  effectsList: []

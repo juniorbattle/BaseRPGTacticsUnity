@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 436a42151d5de6b4aaf41dcf3699fc92, type: 3}
+  m_Name: Axe
+  m_EditorClassIdentifier: 
+  ID: 0
+  nameAct: Axe
+  typeAct: 0
+  description: A brutal and powerful weapon skill, delivering devastating, sweeping
+    attacks that can break through shields and armor.
+  point: 1
+  range: 1
+  adjacency: 0
+  amount: 50
+  criticRate: 10
+  successRate: 90
+  typeAbility: 0
+  typeAction: 0
+  zoneTarget: 0
+  duration: 0
+  weaponObj: {fileID: 0}
+  projectileObj: {fileID: 0}
+  impactObj: {fileID: 0}
+  effectsList: []
